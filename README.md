@@ -2,10 +2,6 @@
 
 A college event registration website built with the MERN stack (MongoDB, Express, React, Node.js).
 Students browse events and register for them. Organisers (admins) create events and see who signed up.
-
-> **Live site:** _add your hosted URL here_
-> **Repository:** _add your GitHub URL here_
-
 ---
 
 ## 1. Project definition
