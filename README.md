@@ -212,7 +212,3 @@ Deploying means making three parts work together: the database, the API and the 
 - The token is stored in `localStorage` (see above)
 - No automated tests yet; testing is manual (section 4)
 - Event images and QR check-in are not implemented
-
-## 8. Screenshots
-
-_Add screenshots of the event list, event detail, admin dashboard and a 375px mobile view here before submitting._
