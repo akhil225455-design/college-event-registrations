@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "mongodb.mongodb-vscode",
+    "rangav.vscode-thunder-client",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
